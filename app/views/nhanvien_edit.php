@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <link rel="stylesheet" href="public/css/style.css">
+    <link rel="stylesheet" href="public/css/edit_style.css">
     <title>Sửa thông tin nhân viên</title>
 </head>
 <body>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <link rel="stylesheet" href="public/css/style.css">
+    <link rel="stylesheet" href="public/css/add_style.css">
     <title>Thêm Nhân Viên</title>
 </head>
 <body>
